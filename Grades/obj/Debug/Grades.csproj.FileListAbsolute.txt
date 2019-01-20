@@ -1,0 +1,14 @@
+D:\Grades\Grades\bin\Debug\Grades.exe.config
+D:\Grades\Grades\bin\Debug\Grades.exe
+D:\Grades\Grades\bin\Debug\Grades.pdb
+D:\Grades\Grades\obj\Debug\Grades.csprojAssemblyReference.cache
+D:\Grades\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
+D:\Grades\Grades\obj\Debug\Grades.exe
+D:\Grades\Grades\obj\Debug\Grades.pdb
+D:\Pluralsight\C-Sharp-Path\Grades\Grades\bin\Debug\Grades.exe.config
+D:\Pluralsight\C-Sharp-Path\Grades\Grades\bin\Debug\Grades.exe
+D:\Pluralsight\C-Sharp-Path\Grades\Grades\bin\Debug\Grades.pdb
+D:\Pluralsight\C-Sharp-Path\Grades\Grades\obj\Debug\Grades.csprojAssemblyReference.cache
+D:\Pluralsight\C-Sharp-Path\Grades\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
+D:\Pluralsight\C-Sharp-Path\Grades\Grades\obj\Debug\Grades.exe
+D:\Pluralsight\C-Sharp-Path\Grades\Grades\obj\Debug\Grades.pdb
